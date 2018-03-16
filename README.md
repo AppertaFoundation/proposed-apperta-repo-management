@@ -56,5 +56,6 @@ https://github.com/ethercis/ethercis#productproject-support
 * OSEHRA paper on licensing terms for open source healthcare applications
 https://www.osehra.org/sites/default/files/osehra_licensing_terms_v.1.0.pdf
 
-Copyright 2018 Marcus Baw
+Copyright 2018 The Apperta Foundation
 License CC-BY-SA-NC
+Original draft RFC by Dr Marcus Baw 
