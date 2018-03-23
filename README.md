@@ -1,6 +1,6 @@
 # Apperta guide to working in the open
 
-Apperta believes that [making things open makes them better](https://web.archive.org/web/20140628221103/https://www.gov.uk/design-principles#ninth).
+Apperta believes that [making things open makes them better](https://web.archive.org/web/20140628221103/https://www.gov.uk/design-principles#tenth).
 
 All Apperta supported projects are encouraged to work in the open and share what they're doing whenever they can.
 
@@ -57,7 +57,10 @@ Furthermore Apperta is in general unlikely to be the sole investor in most open 
 ## Resources
 * [Exemplar text for repositories regarding reasonable expectations of the community for project and product support](https://github.com/ethercis/ethercis#productproject-support)
 * [OSEHRA paper on licensing terms for open source healthcare applications](https://www.osehra.org/sites/default/files/osehra_licensing_terms_v.1.0.pdf)
+* [The UK government's design principles and examples of how they've been used.](https://www.gov.uk/guidance/government-design-principles)
 
-Copyright 2018 The Apperta Foundation
+Copyright (c) The Apperta Foundation CIC
+
 License CC-BY-SA-NC
+
 Original draft RFC by Dr Marcus Baw
