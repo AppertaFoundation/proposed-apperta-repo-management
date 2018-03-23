@@ -20,7 +20,7 @@ In the common case, moving a code repository involves considerable work, none of
 
 Furthermore Apperta is in general unlikely to be the sole investor in most open source projects it supports over their lifetime. This would in fact be unsustainable and a risk to the projects and the broader ecosystem. Therefore Apperta **EXPECTS** source code to be managed by whichever person or institution is the maintainer of the proejct.
 
-### Responsibilities of maintainers
+### Responsibilities of Maintainers
 
 1. Projects **MUST** have an [OSI-approved open source license](https://opensource.org/licenses).
 
@@ -28,7 +28,7 @@ Furthermore Apperta is in general unlikely to be the sole investor in most open 
 
 1. Projects **MUST** have a public source code management tool.
 
-1. Repositories **SHOULD** remain in VCS of the originator, **AND** the Apperta Technical Subcomittee **SHOULD** clone the project VCS to an Apperta Foundation VCS.
+1. Repositories **SHOULD** remain in VCS of the Maintainer **AND** Apperta **SHOULD** have a replica in the Apperta Foundation VCS.
 
 1. Projects **SHOULD** be willing to accept contributions from the community such as Issues and Pull Requests.
 
@@ -40,18 +40,19 @@ Furthermore Apperta is in general unlikely to be the sole investor in most open 
 
 ### Responsibilities of Apperta
 
-1. Apperta **WILL** maintain a simple list or directory of such supported apps and components; their respective subdomain URLs; and appropriate documentation so as to make a demonstration interaction possible.
+1. Apperta **MUST** maintain a simple list or directory of such supported apps and/or components with links to the Maintainer's repository, project documentation, and URLs for demonstration purposes.
 
-1. Apperta **MAY** download code snapshots from the originators' repository at the point of completion of a project or at any other time, in order to protect their investment in development of projects.
+1. Apperta **MUST** have a fork, clone, replica or snapshot of any/all code repositories at the point of completion of a project.
 
-1. Apperta **MAY** fork a code repository from the originators' repository at the point of completion of a project or at any other time, in order to protect their investment in development of projects.
 
-1. In exceptional circumstances, variations to this policy may be discussed and agreed by the Apperta Board, for individual projects.
-
-## Definitions
+### Definitions
 * Apperta - "The Apperta Foundation CIC"
-* Originators - "The individual, group of individuals, organisation, company, or other institution from which the original open source project was created"
+* Maintainers - "The individual, group of individuals, organisation, company, or other institution from which the original open source project was created"
 * VCS - [A component of software configuration management, version control, also known as revision control or source control](https://en.wikipedia.org/wiki/Version_control)
+
+### Variations
+1. From time to time the Apperta Board may update this policy.
+
 
 ## Resources
 * [Exemplar text for repositories regarding reasonable expectations of the community for project and product support](https://github.com/ethercis/ethercis#productproject-support)
